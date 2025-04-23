@@ -25,7 +25,5 @@ Simulation: Unity, Gazebo
 📫 Connect with Me
 🔗 LinkedIn: https://www.linkedin.com/in/abhijeet-tripathy/
 
-🧠 Blog/Portfolio
-
 🛠️ Open to collaboration on robotics, vision, or AI-powered automation projects.
 
